@@ -36,3 +36,24 @@ Each player takes turns rolling a 6-sided die. On each roll:
 
 ```bash
 python dice_game.py
+
+3. Follow the prompts:
+
+Enter number of players (2–4)
+
+Take turns deciding whether to roll or hold
+
+## Example Gameplay
+```bash
+Enter the number of players (2 - 4): 2
+
+Player number 1 turn has just started!
+Your total score is: 0
+
+Would you like to roll (y)? y
+You rolled a: 5
+Your score is: 5
+Would you like to roll (y)? y
+You rolled a: 1
+You rolled a 1! Turn done!
+Your total score is: 0
