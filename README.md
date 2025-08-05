@@ -36,6 +36,7 @@ Each player takes turns rolling a 6-sided die. On each roll:
 
 ```bash
 python dice_game.py
+```bash
 
 3. Follow the prompts:
 
